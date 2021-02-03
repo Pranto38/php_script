@@ -1,0 +1,77 @@
+                         .                    .
+                     . ..:. .SCRiPTMAFiA. ....:.  .
+                 . ......:..... .      . .. ..:...:.... .
+    .__________. ...:.. .  .___________ _______.  :  ._____________.
+  ___\\       (_.       :   \         //       | .:.___//   _  __//
+ /____\   _____/_______._____\\_.     \\      .|______.\     ______ ._______.
+ \         /____)    //       \      \___/     \\    (_.     _((___) \\    (_.
+ /________//\    ____/.______.\\__.   \ /_._____\__   /     /      /__\__   /
+  .____     //    / ___)   //   \      \   \      _  /     /      /     _  /
+      //x_ /______\/    ___/___  \      \ ./________//.   (______\\________\.
+        .____     /    / _((___)__)______\.Proudly.(_______\.Presents. .. .  
+            //x__//___///      /________. _ __ _____________________________ 
+              .____    /      //      //                                    |
+                  //x_/______\\ .__) ____.        b1gMail 6.2.1             |
+ ..._______                  /    ___\   |__.                      .___     |
+          //x____ _ __ _____/____/  |   ___(  (c) B1G PHP Scripts    //_____|
+                                    |    |                    ....     
+                                    |    |               .___
+     .R e l e a s e . i n f o.    .//_______________________\\
+
+                                            __ _____________________________
+ SUPPLiER......: TeaM SCRiPTMAFiA                                   ....... |
+ cRaCkER.......: TeaM SCRiPTMAFiA                                      :::: |
+ pAcKeR........: TeaM SCRiPTMAFiA                                       ::: |
+ ReLeAsE dAtE..: 04/24/2005                                                 |
+ Language......: PHP/MySQL                                               :: |
+ TyPe..........: Mail System                                                |
+ PROTECTiON....: License, Serial/Lic Check, Callhomes, Copyright          : |
+      _______...     ..._______                                             |
+ ___x\\.D e s c r i p t i o n.//x____ _ __ ________________________________//
+                                                                             
+Änderungen 6.2.0 Final -> 6.2.1
+- Fehlermails bei Mailgroessenlimit 1 Bugfix
+- HTML-Editor Bugfix
+- Modul loechen Bugfix
+- ***VIRUS*** und ***SPAM*** im Betreff von als Virus oder Spam markierten Mails
+- Absender = Empfaenger bei E-Mails wird besser behandelt
+- SMS Typ Bugfix (wenn kein Typ Standard ist)
+- Entwurf Bugfix
+- Calltime PBR Bugfix bei HTTPMail
+- Linefeed Bugfix bei HTTPMail
+- Mehrere Empfaenger Bugfix bei HTTPMail
+- OnLogin-Aktion Bugfix
+- Login nun mit voller Mailadresse in einem INPUT-Feld mit Namen "ufullmail" 
+  moeglich
+- Update-Assistent fuer schnelle und unproblematische Patches / Bugfixes
+
+NOTE: Removed this nasty Update-Assistent - so call it a bug not a feature ;)
+                                    _________...   . ..._________            
+   ___ _ __ ______________________x\\. I n s t a l l a t i o n .//x_________.
+ //                                                                          
+ | 1) Unpack
+ | 2) Read liesmich.html
+ | 3) Use our keygen to generate license key (zend encoded!)
+ | 4) Enjoy
+ |
+ \\_x\\.W A N N A . J O i N ?.//x____ _ __ _________________________________ 
+                                                                    ....... |
+ TeAm SCRiPTMAFiA is currently looking for :                           :::: |
+                                                                        ::: |
+  + Suppliers                                                               |
+  (Retail PHP/CGI/ASP scripts)                                           :: |
+  + Experiednced Coder                                                      |
+  (ASM/C++/Delphi)                                                        : |
+  + Dump suppliers [10 MBit+]                                               |
+  (Legit ones, for internal use only)                                       |
+  + HQ Sites [10 MBit+]                                                     |
+   (EU/ASIA/WORLD)                                                          |
+                                                                            |
+  Contact us : scriptmafia@hush.com                                         |
+                                                                            |
+    _________________________ _ __ ________x\\. G R E E T i N G S .//x_____//
+   //
+   |                 ROR - CIP - CHT - WDYL - WST - TNO - DGT
+   |                                 .___
+ .//__________.:k!ND:.__________________\\
+            ./________\.                      

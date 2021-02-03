@@ -1,0 +1,106 @@
+                         .                    .
+                     . ..:. .SCRiPTMAFiA. ....:.  .
+                 . ......:..... .      . .. ..:...:.... .
+    .__________. ...:.. .  .___________ _______.  :  ._____________.
+  ___\\       (_.       :   \         //       | .:.___//   _  __//
+ /____\   _____/_______._____\\_.     \\      .|______.\     ______ ._______.
+ \         /____)    //       \      \___/     \\    (_.     _((___) \\    (_.
+ /________//\    ____/.______.\\__.   \ /_._____\__   /     /      /__\__   /
+  .____     //    / ___)   //   \      \   \      _  /     /      /     _  /
+      //x_ /______\/    ___/___  \      \ ./________//.   (______\\________\.
+        .____     /    / _((___)__)______\.       .(_______\.______
+            //x__//___///      /________. _ __ ______             \\_____...
+              .____    /      //      //            \\_____...              
+                  //x_/______\\ .__) ____.                                  
+ ..._______                  /    ___\   |__.     .Proudly Presents.  ______...
+          //x____ _ __ _____/____/  |   ___(             _ __ ______x\\
+                                    |    |
+                                         '
+             BlogHoster 1.20 *NON STOLEN* (c) Webligo Developments
+
+                                         .
+     .R e l e a s e . i n f o.           ;
+                                         .
+                                            __ _____________________________
+ SUPPLiER......: TeaM SCRiPTMAFiA                                   ....... |
+ NullifiER.....: TeaM SCRiPTMAFiA                                      :::: |
+ pAcKeR........: TeaM SCRiPTMAFiA                                       ::: |
+ ReLeAsE dAtE..: 06/23/2005                                                 |
+ Language......: PHP/MySQL                                               :: |
+ TyPe..........: Blog System                                                |
+ PROTECTiON....: HotLinks, CallHome, License Check                        : |
+                                                                            |
+      _______...     ..._______                                             |
+ ___x\\.D e s c r i p t i o n.//x____ _ __ ________________________________//
+                                                                             
+ BlogHoster was designed for web hosting companies or other community-focused
+ websites. The program allows you to create a full-featured weblog hosting
+ service in which users can signup, choose/edit their template, write entries
+ and comments, create a user profile, add friends, etc. The entire visual 
+ frontend of the software is generic, so you can easily give it your 
+ website's look and feel. You can even have ads automatically inserted on 
+ your users' weblogs.
+ 
+ NOTE: Blog.Hoster.v1.2.0.PHP.NULL-SF: Thanks for stealing our way of nulling 
+ this maybe you can do this on other groups but no on us!
+ Lets take a look at our method of removing the lic check in this recent 
+ release: Blog.Hoster.v1.1.0.PHP.NULL-SCRiPTMAFiA
+ bloghoster\install.php (line 106)
+ 
+ if($license!=="SCRiPTMAFiA") { $status = "failure"; $error = "<h2>Invalid 
+ License Key</h2>You have provided an invalid license key.<br><form 
+ action='install.php' method='POST'><input type='submit' class='button' 
+ value='Try Again'><input type='hidden' name='task' value='step1'></form>"; } 
+  else { $status = "success"; } if($status == "failure") { echo $head; echo 
+ $error; echo $foot; exit(); }
+ 
+ and now lets take a look at SF's (line 114)
+ 
+ if($license!=="SF") { $status = "failure"; $error = "<h2>Invalid License 
+ Key</h2>You have provided an invalid license key.<br><form 
+ action='install.php' method='POST'><input type='submit' class='button' 
+ value='Try Again'><input type='hidden' name='task' value='step1'></form>"; } 
+  else { $status = "success"; } if($status == "failure") { echo $head; echo 
+ $error; echo $foot; exit(); }
+ 
+ it's exact the same beside they replaced our tag with their name.
+ There are many other ways to null this, like to remove the lic check 
+ (install.php) and lic includes in the admin panel - do it your own way we 
+ don't tolerate this!
+ As we already brought you a Incl.Keygen release we do it again this time to 
+ show you that we are able to do it in different ways and don't need to steal 
+ nulling ideas from other groups. You can even use the keygen on your own 
+ purchased version.
+ Yes, the keygen is zended as we don't want groups like SF copy our work and 
+ claim it as their own.
+ btw.
+ Protection ....: License Check
+ You don't even know that you removed some Hotlinks and a Callhome?
+                                    _________...   . ..._________            
+   ___ _ __ ______________________x\\. I n s t a l l a t i o n .//x_________.
+ //
+ | 1) Unpack
+ | 2) Read install.txt
+ | 3) Use our keygen to generate license key (zend encoded!)
+ | 4) Enjoy
+ |    _______...     ..._______                                              
+ \\_x\\.W A N N A . J O i N ?.//x____ _ __ _________________________________ 
+                                                                    ....... |
+ TeAm SCRiPTMAFiA is currently looking for :                           :::: |
+                                                                        ::: |
+  + Suppliers                                                               |
+  (Retail PHP/CGI/ASP scripts)                                           :: |
+  + Experiednced Coder                                                      |
+  (ASM/C++/Delphi)                                                        : |
+  + HQ Sites [10 MBit+]                                                     |
+  (EU/ASIA/WORLD)                                                           |
+  + Cracker/Keygenier                                                       |
+                                                                            |
+  Contact us : sm2k5@hush.com                                               |
+                                             _______...   ..._______        |
+    _________________________ _ __ ________x\\. G R E E T i N G S .//x_____//
+   //
+   |                                         CHT - DGT - LiNE - WDYL
+   |                                 .___
+ .//__________.:k!ND:.__________________\\
+            ./________\.
